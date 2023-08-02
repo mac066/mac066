@@ -1,6 +1,6 @@
-## Sagar Shrestha - Full-Stack Web Developer | 8+ Years of Experience
+## Sagar Shrestha - Full-Stack Web Developer | 9+ Years of Experience
 
-Hello, there! Welcome to my GitHub page. I'm Sagar Shrestha, a seasoned Full-Stack Web Developer with over 8 years of experience in the industry. I have a passion for creating web applications that not only meet customer needs but also drive business growth. My journey as a developer has been a continuous exploration of cutting-edge technologies and innovative solutions to deliver top-notch results.
+Hello, there! Welcome to my GitHub page. I'm Sagar Shrestha, a seasoned Full-Stack Web Developer with over 9 years of experience in the industry. I have a passion for creating web applications that not only meet customer needs but also drive business growth. My journey as a developer has been a continuous exploration of cutting-edge technologies and innovative solutions to deliver top-notch results.
 
 ## About Me
 Throughout my career, I've had the privilege to work on a wide range of projects, honing my skills in various web development domains. My expertise includes:
@@ -23,7 +23,7 @@ Feel free to explore my GitHub repositories to find a collection of projects tha
 As someone who firmly believes in the power of teamwork, I have built a talented and dedicated team that shares my vision for delivering excellence. Collaboration and effective communication are the pillars that help us achieve our goals and exceed customer expectations. Together, we bring the best out of each other and ensure that our clients' business objectives are met with flying colors.
 
 ## Let's Connect!
-I'm always eager to connect with fellow developers, entrepreneurs, and tech enthusiasts. If you have any questions, project ideas, or just want to say hello, feel free to reach out to me through my email (your.email@example.com) or social media links provided on my GitHub profile.
+I'm always eager to connect with fellow developers, entrepreneurs, and tech enthusiasts. If you have any questions, project ideas, or just want to say hello, feel free to reach out to me through my email (thechoosenman113@gmail.com) or social media links provided on my GitHub profile.
 
 Thank you for visiting my GitHub page, and I look forward to collaborating with you on exciting projects!
 
